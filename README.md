@@ -11,7 +11,7 @@
 	* [English](#english)
 
 ## 한국어
-> 글자로 놀자! 끄투 온라인
+> 스카이끄투 - 글자로 놀자!
 
 **끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
 로봇과 혼자서 게임을 할 수도 있고, 서버에 접속해 있는 다른 사람들과 함께 할 수도 있죠.
@@ -57,7 +57,7 @@
 	- 다만 본 레포지토리에서 제공하는 소스 코드로 끄투 서비스를 운영하기 위해 이들을 사용하는 경우 저작자 표시(BY)를 생략할 수 있습니다.
 
 ## English
-> Rule the words! KKuTu Online
+> Sky KKuTu - Rule the words!
 
 **KKuTu** is a casual game containing various word games that let players use their vocabulary.
 Players can play alone with a robot, or play with other players who have entered to a server.
