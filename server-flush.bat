@@ -1,3 +1,4 @@
+@echo off
 del "Server\run.bat"
 del "Server\lib\Web\lib\in_game_kkutu.js"
 
