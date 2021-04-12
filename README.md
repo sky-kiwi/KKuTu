@@ -1,6 +1,7 @@
 # Sky KKuTu
 - Made by [JJoriping]
-- [프리 서버 목록 (Free Server List)](https://kkutu.kr)
+- [Free Server List](https://kkutu.kr)
+- [프리 서버 목록 ](https://kkutu.kr)
 	* [English](#english)
 	* [한국어](#한국어)
 
