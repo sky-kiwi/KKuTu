@@ -10,7 +10,14 @@
 	* [English](#english)
 	* [한국어](#한국어)
 
+## English
+> Sky KKuTu - Rule the words!
+
+**Sky KKuTu** is a casual game containing various word games that let players use their vocabulary.
+Players can play alone with a robot, or play with other players who have entered to a server.
+This repository provides you what you have to prepare to play **Sky KKuTu**.
 ### How to Install
+
 #### For Windows
 1. Download or clone this repository to your machine.
 1. Install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)(this will be installed automatically). The version should be ≥6.
@@ -94,10 +101,3 @@
 - 모든 소스 코드에 대해: [GNU 일반 공중 사용 라이선스](https://github.com/JJoriping/KKuTu/blob/master/LICENSE)
 - 모든 이미지 및 소리에 대해: [크리에이티브 커먼즈 라이선스 CC BY](https://creativecommons.org/licenses/by/4.0/)
 	- 다만 본 레포지토리에서 제공하는 소스 코드로 끄투 서비스를 운영하기 위해 이들을 사용하는 경우 저작자 표시(BY)를 생략할 수 있습니다.
-
-## English
-> Sky KKuTu - Rule the words!
-
-**Sky KKuTu** is a casual game containing various word games that let players use their vocabulary.
-Players can play alone with a robot, or play with other players who have entered to a server.
-This repository provides you what you have to prepare to play **Sky KKuTu**.
