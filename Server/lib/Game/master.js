@@ -323,7 +323,7 @@ exports.init = function(_SID, CHAN){
 					return;
 				}
 				if($c.guest){
-					if(SID != "0"){
+					if(SID != "-1"){
 						$c.sendError(402);
 						$c.socket.close();
 						return;
