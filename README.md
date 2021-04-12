@@ -13,9 +13,9 @@
 ## 한국어
 > 스카이끄투 - 글자로 놀자!
 
-**끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
+**스카이끄투**는 여러분의 어휘력을 발휘할 수 있는 다양한 단어 게임들이 모여 있는 캐주얼 게임입니다.
 로봇과 혼자서 게임을 할 수도 있고, 서버에 접속해 있는 다른 사람들과 함께 할 수도 있죠.
-이 저장소는 여러분이 **끄투**를 즐기기 위해 준비해야 할 것들에 대해 알리고 있습니다.
+이 저장소는 여러분이 **스카이끄투**를 즐기기 위해 준비해야 할 것들에 대해 알리고 있습니다.
 
 ### 설치 방법
 #### Windows 환경
@@ -31,7 +31,7 @@
 
 #### Linux 환경
 1. 이 레포지토리를 내려받습니다.
-1. 패키지 매니저를 이용하여 [node.js](https://nodejs.org/)와 [npm](https://www.npmjs.com/)을 설치(버전 6 이상)합니다.
+1. 패키지 매니저를 이용하여 [node.js](https://nodejs.org/)와 [npm](https://www.npmjs.com/)을 설치(버전 6~12)합니다.
 1. `npm install -g grunt grunt-cli`를 입력해 [grunt](https://gruntjs.com/)를 설치합니다.
 1. 패키지 매니저를 이용하여 [PostgreSQL](https://www.postgresql.org/)과 *psql*을 설치합니다.
 1. SQL 파일(`./db.sql`)을 데이터베이스에 입력시킵니다.
@@ -59,9 +59,9 @@
 ## English
 > Sky KKuTu - Rule the words!
 
-**KKuTu** is a casual game containing various word games that let players use their vocabulary.
+**Sky KKuTu** is a casual game containing various word games that let players use their vocabulary.
 Players can play alone with a robot, or play with other players who have entered to a server.
-This repository provides you what you have to prepare to play **KKuTu**.
+This repository provides you what you have to prepare to play **Sky KKuTu**.
 
 ### How to Install
 #### For Windows
