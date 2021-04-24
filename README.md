@@ -1,6 +1,6 @@
 # Sky KKuTu
-- Made by [JJoriping](https://github.com/JJoriping)
-- Modify by [sky-kiwi](https://github.com/sky-kiwi)
+- Made by [[JJoriping]] (https://github.com/JJoriping)
+- Modify by [[sky-kiwi]] (https://github.com/sky-kiwi)
 - [Free Server List](https://kkutu.kr)
 - [프리 서버 목록 ](https://kkutu.kr)
 	* [English](#english)
