@@ -16,7 +16,7 @@ This repository provides you what you have to prepare to play **Sky KKuTu**.
 
 #### For Windows
 1. Download or clone this repository to your machine.
-1. Install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)(this will be installed automatically). The version should be ≥6.
+1. Install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/)(this will be installed automatically). The version should be ver.6~12
 1. Open *cmd* and run `npm install -g grunt grunt-cli` to install [grunt](https://gruntjs.com/).
 1. Install [PostgreSQL](https://www.postgresql.org/) database server and *pgAdmin*(this will be installed automatically).
 1. Run *pgAdmin* and put the SQL file(`./db.sql`) into your database.
@@ -27,7 +27,7 @@ This repository provides you what you have to prepare to play **Sky KKuTu**.
 
 #### For Linux
 1. Download or clone this repository to your machine.
-1. Install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) via a package manager. The version should be ≥6.
+1. Install [node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.com/) via a package manager. The version should be ver.6~12
 1. Run `npm install -g grunt grunt-cli` to install [grunt](https://gruntjs.com).
 1. Install [PostgreSQL](https://www.postgresql.org/) database server via a package manager.
 1. Put the SQL file(`./db.sql`) into your database.
